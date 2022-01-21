@@ -44,7 +44,6 @@ PlotPosOnly = 0;
 % InitThree
 % InitBlock
 % InitCirc
-InitEllip
 % InitBlock0
 % InitBlock0FD
 % InitVStream
